@@ -8,6 +8,8 @@ import java.util.Collections;
 
 public class createFile {
     public static void main(String[] args) {
+//        1.     Создать и заполнить файл случайными целыми числами. Отсортировать содержимое файла по возрастанию.
+
         File dir = new File("data");
         dir.mkdir();
 

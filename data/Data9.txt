@@ -1,0 +1,15 @@
+System.out.println("Hello, Java world!");
+// наш комментарий
+
+/*
+ Пример простой программы на Java
+*/
+
+public class SampleProgram
+{
+ public static void main (String [] args)
+ {
+ System.out.println("Hello, Java world!");
+ }
+}
+
